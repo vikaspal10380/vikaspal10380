@@ -18,7 +18,7 @@
 
 ## 🛠️ Tech Stack
 
-* 💻 Languages: Python, Java
+* 💻 Languages: Python, C++, Java
 * 🧠 DSA: Problem Solving, Algorithms
 * 🌐 Development: HTML, CSS, JavaScript, Django
 * ⚙️ Tools: Git, GitHub
